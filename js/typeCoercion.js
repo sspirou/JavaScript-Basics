@@ -2,7 +2,7 @@
 //  JavaScript Basics - Type Coercion
 //////////////////
 
-// block scoping to allow redeclaration of val in other files
+// block scoping to allow redeclaration of someVar in other files
 {
     let someVar;
 
