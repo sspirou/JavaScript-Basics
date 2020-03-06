@@ -19,5 +19,7 @@
     if (-1) {
         console.log('every number but 0 coerces to true');
     }
+    // String + Number
+    someVar = String(5) + 72; // '572'
 
 }
